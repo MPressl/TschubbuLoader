@@ -1,3 +1,4 @@
+//Copywrite (C) Martin Pressl 2017
 package com.mston.developments.tschubbuloader;
 
 import android.Manifest;
@@ -8,7 +9,7 @@ import android.util.Log;
 import static android.content.ContentValues.TAG;
 
 /**
- * Created by root on 1/7/17.
+ * This thread initiates the download of the video.
  */
 
 public class DownloadThread implements Runnable {

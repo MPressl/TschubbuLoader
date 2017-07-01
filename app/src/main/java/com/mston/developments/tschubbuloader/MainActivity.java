@@ -1,3 +1,4 @@
+//Copywrite (C) Martin Pressl 2017
 package com.mston.developments.tschubbuloader;
 
 import android.content.Intent;
@@ -12,6 +13,9 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
+/**
+* MainActivity of the application
+**/
 public class MainActivity extends AppCompatActivity {
 
     public static String VIDEO_URL_ATTRIBUTE = "videourl";

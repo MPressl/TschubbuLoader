@@ -1,3 +1,4 @@
+//Copywrite (C) Martin Pressl 2017
 package com.mston.developments.tschubbuloader;
 
 import android.content.Context;
@@ -6,7 +7,7 @@ import android.util.AttributeSet;
 import android.widget.AutoCompleteTextView;
 
 /**
- * Created by root on 1/11/17.
+ * This class manipulates the AutoCompleteTextView to show proposal directly on focus.
  */
 
 public class InstantAutoCompleteTextView  extends AutoCompleteTextView {

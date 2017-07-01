@@ -1,9 +1,10 @@
+//Copywrite (C) Martin Pressl 2017
 package com.mston.developments.tschubbuloader;
 
 import android.util.Log;
 
 /**
- * Created by root on 1/6/17.
+ * This thread initiates the conversion of the selected video
  */
 
 public class ConversionThread implements Runnable {

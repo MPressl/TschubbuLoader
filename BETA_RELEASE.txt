@@ -1,0 +1,21 @@
+====Release Notes for the TschubbuLoader beta release ======
+
+#Support
+* Supported Android versions until 5.x.x
+* Android 6.x.x is not supported, as the flow to request permissions has changed
+
+#The Android 6.x.x support will be added as soon as I have time between writing bachelor thesis,
+#moving to new citys  because of my job and planning my future
+#The support will be contained as well as the following issues, within the v1.0 release of the
+#application
+
+
+#Known issues
+
+* Searches on youtube result in a list of 10 and never more then 10 results
+* Filenames containing special characters as ä,ö,ü for example will result 
+  in unpredictable filenames after the download
+
+
+#Submit bugs, support and contact through
+martin.pressl@online.de

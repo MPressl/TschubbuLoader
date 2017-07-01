@@ -1,3 +1,4 @@
+//Copywrite (C) Martin Pressl 2017
 package com.mston.developments.tschubbuloader;
 
 import android.app.DownloadManager;
@@ -23,6 +24,10 @@ import java.util.Set;
 
 import static android.content.Context.DOWNLOAD_SERVICE;
 
+/**
+* class interfaces to the convert2mp3 web service via REST. It requests via GET/POST and
+* retrieves requested data via the html answer of the service
+**/
 public class wGetter {
 
 	public static final int FORMAT_MP3 = 0;
@@ -116,6 +121,7 @@ public class wGetter {
 		}
 
 	}
+	
 
 	public static ArrayList<YoutubeEntry> searchVids(String searchString) {
 		try {

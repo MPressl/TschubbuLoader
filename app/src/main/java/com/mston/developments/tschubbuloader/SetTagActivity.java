@@ -1,3 +1,4 @@
+//Copywrite (C) Martin Pressl 2017
 package com.mston.developments.tschubbuloader;
 import android.Manifest;
 import android.app.Activity;
@@ -13,7 +14,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 /**
- * Created by root on 1/6/17.
+ * Activity for setting video name and interpret and choosing the conversion method.
  */
 
 public class SetTagActivity extends Activity implements View.OnClickListener{

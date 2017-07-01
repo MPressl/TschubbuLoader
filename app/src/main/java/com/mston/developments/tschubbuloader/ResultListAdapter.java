@@ -1,3 +1,4 @@
+//Copywrite (C) Martin Pressl 2017
 package com.mston.developments.tschubbuloader;
 
 import android.app.Activity;
@@ -15,7 +16,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 /**
- * Created by root on 1/4/17.
+ * Adapter realises the result list in form of an preview image and the video name
  */
 
 public class ResultListAdapter extends BaseAdapter implements View.OnClickListener {

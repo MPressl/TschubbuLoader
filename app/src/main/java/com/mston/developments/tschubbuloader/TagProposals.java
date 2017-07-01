@@ -1,9 +1,10 @@
+//Copywrite (C) Martin Pressl 2017
 package com.mston.developments.tschubbuloader;
 import java.io.Serializable;
 import java.util.ArrayList;
 
 /**
- * Created by root on 1/6/17.
+ * serializable tag proposals containing artist and title.
  */
 
 public class TagProposals implements Serializable {

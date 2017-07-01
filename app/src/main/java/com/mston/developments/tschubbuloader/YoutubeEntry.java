@@ -1,5 +1,9 @@
+//Copywrite (C) Martin Pressl 2017
 package com.mston.developments.tschubbuloader;
 
+/**
+* Model class for a Youtube search result
+**/
 public class YoutubeEntry {
 
 
